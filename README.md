@@ -95,7 +95,8 @@ Pay Distribution by $10K Bands (visuals interpreted):
   - Lagos has the least presence in higher bands.
   
 
- 
+ ![pal1](https://github.com/user-attachments/assets/e03449bc-5892-4957-9afd-8c394b56b5f7)
+
 
 
 
