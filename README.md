@@ -93,6 +93,11 @@ Pay Distribution by $10K Bands (visuals interpreted):
 #### By Region:
   - Abuja and Kaduna dominate the higher bands (but still not above $90K for most).
   - Lagos has the least presence in higher bands.
+  
+
+ 
+
+
 
 
 
