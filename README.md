@@ -99,6 +99,29 @@ Pay Distribution by $10K Bands (visuals interpreted):
 
 
 
+### 5. **Bonus Allocation Based on Performance Rating:**
+
+
+![palmoria1](https://github.com/user-attachments/assets/65b0440d-06b7-41f9-829a-e29a4e5f7bbc)
+
+
+#### Total Bonus by Region:
+
+  - Abuja: $825.91K (37.55%)
+  - Kaduna: $801.14K (36.43%)
+  - Lagos: $572.22K (26.02%)
+
+#### Total Pay Company-Wide:
+
+  - $66.64M (Salary + Bonus)
+
+#### Total Pay by Region:
+
+  - Abuja: $25.6M (38.42%)
+  - Kaduna: $23.36M (35.06%)
+  - Lagos: $17.67M (26.52%)
+
+
 
 
 
