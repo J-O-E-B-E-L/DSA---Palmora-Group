@@ -80,6 +80,20 @@ Focus Areas for Management:
   - Departments: Accounting, Engineering, Legal
   - Regions: Kaduna, then Abuja
 
+### 4. **Compliance with $90K Minimum Pay Regulation**
+
+Does Palmoria Meet the Requirement?
+  - No, the majority of employees earn less than $90,000 annually.
+
+Pay Distribution by $10K Bands (visuals interpreted):
+  - Significant number of employees are within:
+    - $30,000–$60,000 bands
+    - Very few earn $90,000+
+   
+#### By Region:
+  - Abuja and Kaduna dominate the higher bands (but still not above $90K for most).
+  - Lagos has the least presence in higher bands.
+
 
 
 
